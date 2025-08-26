@@ -1,2 +1,5 @@
 # hzstudy
-黄展初步学习git的库
+it is the first change 
+if you can see it 
+it means you success
+
