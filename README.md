@@ -1,5 +1,4 @@
 # hzstudy
-it is the first change 
-if you can see it 
-it means you success
+it is the secord time to push my word to github
+if success very good 
 
